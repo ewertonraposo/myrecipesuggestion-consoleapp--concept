@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/ewertonraposo/myrecipesuggestion-consoleapp--concept#readme",
   "dependencies": {
-    "prompts": "^2.3.2"
+    "prompts": "~2.3.2"
   }
 }
