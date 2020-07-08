@@ -11,7 +11,6 @@ const newLocal = (exports.menu = () => {
           value: "A",
         },
         { title: "Option B", value: "B", disabled: true },
-        { title: "Option C", value: "C" },
         { title: "Exit", value: null },
       ],
       initial: 1,
